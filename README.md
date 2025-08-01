@@ -26,3 +26,9 @@
 - Might be boring, but never lazy when it comes to code 🧑‍💻  
 
 ---
+
+## 📊 GitHub Stats
+![HY's GitHub stats](https://github-readme-stats.vercel.app/api?username=muliang0711&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muliang0711&layout=compact&theme=tokyonight)
+
